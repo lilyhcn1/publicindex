@@ -5,3 +5,4 @@ git pull origin master
 git push -u origin master
 
 start https://lilyhcn1.github.io/publicindex/
+pause
