@@ -1,0 +1,9 @@
+1. 安装python 
+https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe
+2. 将start.py复制到d盘根目录
+3. 导入本地url协议，cmd.reg
+4. 利用excel生成在本地导航网页，修改相应网址即可。
+
+提示：
+1. 浏览器建议使用edge.exe，这样可以不提示就可以本地文件。
+2. 可以把生成的网页创到快捷方式 到桌面，快捷方式上可以设置热键，这样可以一键启动。
